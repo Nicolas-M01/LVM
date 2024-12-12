@@ -21,3 +21,8 @@ Création du dossier `home-snap`
 
 Montage du snapshot dans `home-snap`  
 ![Capture d'écran 2024-12-12 203334](https://github.com/user-attachments/assets/c5f60487-a39c-4bad-94d0-a85684f3d748)  
+
+On vérifie que le snapshot contient bien le /home d'origine.  
+![Capture d'écran 2024-12-12 203537](https://github.com/user-attachments/assets/b60e4440-278d-44a4-be83-7268c5278000)
+
+
