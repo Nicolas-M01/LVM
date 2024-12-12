@@ -25,4 +25,20 @@ Montage du snapshot dans `home-snap`
 On vérifie que le snapshot contient bien le /home d'origine.  
 ![Capture d'écran 2024-12-12 203537](https://github.com/user-attachments/assets/b60e4440-278d-44a4-be83-7268c5278000)
 
+Démontage du dossier /home-snap  
+![Capture d'écran 2024-12-12 204150](https://github.com/user-attachments/assets/634d03b6-9da1-4ae2-9b45-5f99fb188614)
 
+
+Vérification que /home-snap n'est plus affiché.  
+![Capture d'écran 2024-12-12 204208](https://github.com/user-attachments/assets/86f9c9ab-6c37-427c-995e-04c63469cc46)  
+
+Avec lvs, on voit le snapshot à détruire.  
+![Capture d'écran 2024-12-12 204503](https://github.com/user-attachments/assets/ed4b4e7f-5749-42b2-acbe-bfc4ba177ae1)  
+
+Suppression du volume logique du snapshot.  
+![Capture d'écran 2024-12-12 204503](https://github.com/user-attachments/assets/1954f269-4350-47cd-8058-7c27a66f196c)  
+
+Vérification.  
+![Capture d'écran 2024-12-12 204503](https://github.com/user-attachments/assets/fceae871-6ef1-4d33-8ec8-3568b522103e)
+
+Et voilà le snapshot a disparu !!!  
