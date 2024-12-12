@@ -40,5 +40,6 @@ Suppression du volume logique du snapshot.
 
 Vérification.  
 ![Capture d'écran 2024-12-12 204503](https://github.com/user-attachments/assets/fceae871-6ef1-4d33-8ec8-3568b522103e)
+![Capture d'écran 2024-12-12 204503](https://github.com/user-attachments/assets/e3761327-0018-4aac-ad42-b4d8e9f729b3)
 
-Et voilà le snapshot a disparu !!!  
+Et voilà le snapshot a disparu et le `home` n'est plus la source de snapshot !!!  
