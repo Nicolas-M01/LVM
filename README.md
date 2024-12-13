@@ -17,7 +17,8 @@ Création Snapshot.
 ![Capture d'écran 2024-12-12 202720](https://github.com/user-attachments/assets/df1573e0-ae5b-4945-92c3-1443d90ec827)  
 
 Création du dossier `home-snap`  
-![Capture d'écran 2024-12-12 202720](https://github.com/user-attachments/assets/ecdf0f26-eae1-405c-814a-3d0d3acc8997)  
+![Capture d'écran 2024-12-12 203334](https://github.com/user-attachments/assets/b4f7525a-1996-48a3-a3ea-dfb510d59e9d)
+
 
 Montage du snapshot dans `home-snap`  
 ![Capture d'écran 2024-12-12 203334](https://github.com/user-attachments/assets/c5f60487-a39c-4bad-94d0-a85684f3d748)  
