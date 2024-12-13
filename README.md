@@ -38,10 +38,12 @@ Avec lvs, on voit le snapshot à détruire.
 ![Capture d'écran 2024-12-12 204503](https://github.com/user-attachments/assets/ed4b4e7f-5749-42b2-acbe-bfc4ba177ae1)  
 
 Suppression du volume logique du snapshot.  
-![Capture d'écran 2024-12-12 204503](https://github.com/user-attachments/assets/1954f269-4350-47cd-8058-7c27a66f196c)  
+![Capture d'écran 2024-12-12 204732](https://github.com/user-attachments/assets/bd47c35f-1368-4c8c-bc77-67f290f1dc55)
+
 
 Vérification.  
-![Capture d'écran 2024-12-12 204503](https://github.com/user-attachments/assets/fceae871-6ef1-4d33-8ec8-3568b522103e)
-![Capture d'écran 2024-12-12 204503](https://github.com/user-attachments/assets/e3761327-0018-4aac-ad42-b4d8e9f729b3)
+![Capture d'écran 2024-12-12 204830](https://github.com/user-attachments/assets/e942b62e-934a-4376-92f1-9b9d32db04ae)
+![Capture d'écran 2024-12-12 205013](https://github.com/user-attachments/assets/9aad2167-b5ff-4883-8d76-86a28beb25d6)
+
 
 Et voilà le snapshot a disparu et le `home` n'est plus la source de snapshot !!!  
