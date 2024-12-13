@@ -17,17 +17,18 @@ Création Snapshot.
 ![Capture d'écran 2024-12-12 202720](https://github.com/user-attachments/assets/df1573e0-ae5b-4945-92c3-1443d90ec827)  
 
 Création du dossier `home-snap`  
-![Capture d'écran 2024-12-12 203334](https://github.com/user-attachments/assets/b4f7525a-1996-48a3-a3ea-dfb510d59e9d)
+![Capture d'écran 2024-12-12 203334](https://github.com/user-attachments/assets/b4f7525a-1996-48a3-a3ea-dfb510d59e9d)  
 
 
 Montage du snapshot dans `home-snap`  
-![Capture d'écran 2024-12-12 203334](https://github.com/user-attachments/assets/c5f60487-a39c-4bad-94d0-a85684f3d748)  
+![Capture d'écran 2024-12-12 203341](https://github.com/user-attachments/assets/d1744c22-d150-488d-a24d-a8bc6ef5f4e7)  
+
 
 On vérifie que le snapshot contient bien le /home d'origine.  
-![Capture d'écran 2024-12-12 203537](https://github.com/user-attachments/assets/b60e4440-278d-44a4-be83-7268c5278000)
+![Capture d'écran 2024-12-12 203537](https://github.com/user-attachments/assets/b60e4440-278d-44a4-be83-7268c5278000)  
 
 Démontage du dossier /home-snap  
-![Capture d'écran 2024-12-12 204150](https://github.com/user-attachments/assets/634d03b6-9da1-4ae2-9b45-5f99fb188614)
+![Capture d'écran 2024-12-12 204150](https://github.com/user-attachments/assets/634d03b6-9da1-4ae2-9b45-5f99fb188614)  
 
 
 Vérification que /home-snap n'est plus affiché.  
